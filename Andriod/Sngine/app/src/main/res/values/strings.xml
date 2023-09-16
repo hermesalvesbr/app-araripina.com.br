@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Araripina.com.br</string>
+    <string name="image_view">Visualização de imagem</string>
+	<string name="sngine_demo">araripina.com.br</string>
+    <string name="rate_dialog_title">Dar nota</string>
+    <string name="rate_dialog_message">Se você gosta de nosso aplicativo, se importaria de reservar um momento para avaliá-lo? Não demorará mais de um minuto. Obrigado!</string>
+    <string name="rate_dialog_ok">AVALIAR</string>
+    <string name="rate_dialog_cancel">MAIS TARDE</string>
+    <string name="rate_dialog_no">NÃO PERGUNTE DE NOVO</string>
+	<string name="loc_fail">Falha ao encontrar o local</string>
+    <string name="loc_fail_text">Por favor, verifique sua localização GPS.</string>
+    <string name="loc_fail_more">Verifique se o seu GPS está ativado; caso contrário, configure-o para alta precisão nas configurações de localização.</string>
+    <string name="loc_perm">Permitir permissão para localização</string>
+    <string name="loc_perm_text">Dê permissão a este aplicativo para verificar sua localização.</string>
+    <string name="loc_perm_more">Permita que este aplicativo saiba sua localização para uma melhor experiência geral.</string>
+	<string name="dl_downloading">Baixando arquivo…</string>
+	<string name="dl_downloading2">Baixando arquivo</string>
+	<string name="fl_chooser">Seletor de arquivos</string>
+	<string name="went_wrong">Algo deu errado!</string>
+	<string name="check_connection">Por favor, verifique sua conexão de rede!</string>
+	<string name="share_w_friends">Compartilhe com os seus amigos</string>
+</resources>
