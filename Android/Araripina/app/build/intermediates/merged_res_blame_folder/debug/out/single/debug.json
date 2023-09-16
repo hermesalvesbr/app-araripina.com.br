@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "araripina.app.webview.app-merged_res-25:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "araripina.app.webview.app-main-27:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "araripina.app.webview.app-merged_res-25:/xml_provider_paths.xml.flat",
+        "source": "araripina.app.webview.app-main-27:/xml/provider_paths.xml"
+    },
+    {
+        "merged": "araripina.app.webview.app-merged_res-25:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "araripina.app.webview.app-main-27:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "araripina.app.webview.app-merged_res-25:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "araripina.app.webview.app-main-27:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "araripina.app.webview.app-merged_res-25:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "araripina.app.webview.app-main-27:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "araripina.app.webview.app-merged_res-25:/drawable_progress_style.xml.flat",
+        "source": "araripina.app.webview.app-main-27:/drawable/progress_style.xml"
+    },
+    {
+        "merged": "araripina.app.webview.app-merged_res-25:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "araripina.app.webview.app-main-27:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "araripina.app.webview.app-merged_res-25:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "araripina.app.webview.app-main-27:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "araripina.app.webview.app-merged_res-25:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "araripina.app.webview.app-main-27:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "araripina.app.webview.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "araripina.app.webview.app-main-27:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "araripina.app.webview.app-merged_res-25:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "araripina.app.webview.app-main-27:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "araripina.app.webview.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "araripina.app.webview.app-main-27:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "araripina.app.webview.app-merged_res-25:/layout_activity_splash.xml.flat",
+        "source": "araripina.app.webview.app-main-27:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "araripina.app.webview.app-merged_res-25:/drawable_background_splash.xml.flat",
+        "source": "araripina.app.webview.app-main-27:/drawable/background_splash.xml"
+    },
+    {
+        "merged": "araripina.app.webview.app-merged_res-25:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "araripina.app.webview.app-main-27:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "araripina.app.webview.app-merged_res-25:/raw_front_splash.png.flat",
+        "source": "araripina.app.webview.app-main-27:/raw/front_splash.png"
+    },
+    {
+        "merged": "araripina.app.webview.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "araripina.app.webview.app-main-27:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "araripina.app.webview.app-merged_res-25:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "araripina.app.webview.app-main-27:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "araripina.app.webview.app-merged_res-25:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "araripina.app.webview.app-main-27:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "araripina.app.webview.app-merged_res-25:/layout_activity_main.xml.flat",
+        "source": "araripina.app.webview.app-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "araripina.app.webview.app-merged_res-25:/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "araripina.app.webview.app-main-27:/mipmap-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "araripina.app.webview.app-merged_res-25:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "araripina.app.webview.app-main-27:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "araripina.app.webview.app-merged_res-25:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "araripina.app.webview.app-main-27:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "araripina.app.webview.app-merged_res-25:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "araripina.app.webview.app-main-27:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    }
+]

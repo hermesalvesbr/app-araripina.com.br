@@ -1,0 +1,461 @@
+-- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:86:9-94:20
+	android:grantUriPermissions
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:90:13-47
+	android:authorities
+		INJECTED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:88:13-60
+	android:exported
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:89:13-37
+	android:name
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:87:13-62
+manifest
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:3:1-100:12
+INJECTED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:3:1-100:12
+INJECTED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:3:1-100:12
+INJECTED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:3:1-100:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/hermes/.gradle/caches/transforms-3/76dd6faf8e82a236729d9d8dfd132a6e/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/hermes/.gradle/caches/transforms-3/846436f97025c65da143d9bb75dd27c5/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/hermes/.gradle/caches/transforms-3/e823a5dda738fb7207ec40a9ecdd8129/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:20.6.0] /home/hermes/.gradle/caches/transforms-3/4d9e46a93ed700850f82503e872897f7/transformed/jetified-play-services-auth-20.6.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /home/hermes/.gradle/caches/transforms-3/05af47d0a08d649e024879d3ca40a41f/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.media:media:1.0.0] /home/hermes/.gradle/caches/transforms-3/62fb05af4a187d66c732b7b504a3625d/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/hermes/.gradle/caches/transforms-3/5953cb8ce8f98f2946fbb38484b53065/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/hermes/.gradle/caches/transforms-3/2250f7b1ab9557d5657b92483f06eb00/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /home/hermes/.gradle/caches/transforms-3/777f5102b6189c007400914052b45a66/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /home/hermes/.gradle/caches/transforms-3/ace9674bd0df5d8126bb164d7bff5617/transformed/jetified-play-services-auth-base-18.0.4/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /home/hermes/.gradle/caches/transforms-3/2c8543f86465f0108dcf695bcc7f1c1a/transformed/jetified-play-services-fido-20.0.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/hermes/.gradle/caches/transforms-3/9fcfcee2aff2541d6d2c5ed2c6e9331e/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/hermes/.gradle/caches/transforms-3/c7825d3f9badcb5158a86420a63019a9/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /home/hermes/.gradle/caches/transforms-3/2f1fd15a69b5d8238cfacaa601d1ed13/transformed/jetified-play-services-basement-18.2.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/hermes/.gradle/caches/transforms-3/7def779e53ee2f3f688cb1995e3c6945/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] /home/hermes/.gradle/caches/transforms-3/0f66f4b0a00ff7ebace10f6ad8a73a42/transformed/jetified-activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/hermes/.gradle/caches/transforms-3/13850d809c5e08d556b7a81150942f11/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/hermes/.gradle/caches/transforms-3/090d334dc62a6017edeeac87517d3af4/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/hermes/.gradle/caches/transforms-3/1861c8489e009d8a4e730227620cc122/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.loader:loader:1.0.0] /home/hermes/.gradle/caches/transforms-3/7252e0d2ef010e3195915fbd0b2d3325/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/hermes/.gradle/caches/transforms-3/41f53933c19263b06a83d914e1452f4b/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/hermes/.gradle/caches/transforms-3/0da563c53fa37b2d398b98ef6d839185/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/hermes/.gradle/caches/transforms-3/a6fa8cf0c313c5d66b52565f46bc067a/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/hermes/.gradle/caches/transforms-3/363724b6c7ca67ea72522e3c193eb388/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/hermes/.gradle/caches/transforms-3/7b7a699cbc8e6564c3301e3262160a81/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/hermes/.gradle/caches/transforms-3/5551cdddc6993a5d0f99e01a16f9e884/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/hermes/.gradle/caches/transforms-3/1580f3e5ad48ea56404b04ce5d99aa58/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/hermes/.gradle/caches/transforms-3/e8ad81c1c5f1ef437ec4e7876718fab2/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] /home/hermes/.gradle/caches/transforms-3/f7aed3a3de8daf82a1422be96bede4ad/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/hermes/.gradle/caches/transforms-3/54f8f0214dfe30c965f071184c100b2e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/hermes/.gradle/caches/transforms-3/52ec35b754f75b0e10ded128a31f4e2e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /home/hermes/.gradle/caches/transforms-3/2d36cdbeb90dfdfd402f076bef064238/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/hermes/.gradle/caches/transforms-3/842b3dfc0644dc5bfd8fa880584e0c11/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/hermes/.gradle/caches/transforms-3/af1c2d516b5a921a26b5da097a1ba1a1/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/hermes/.gradle/caches/transforms-3/f9e562b23f4f422ee14ad962f2b498de/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/hermes/.gradle/caches/transforms-3/4e79dea9212c14d370c21ae2eb2dc1c4/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/hermes/.gradle/caches/transforms-3/7db2aacaf5c0e258966e35a83d9995ba/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/hermes/.gradle/caches/transforms-3/5ec38c558705e4d51c1cd1644e7b9481/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/hermes/.gradle/caches/transforms-3/ef41ad1de6652bdfc935f1f371e39b47/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/hermes/.gradle/caches/transforms-3/50b6db4d30973008bd1e20743ca5b270/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/hermes/.gradle/caches/transforms-3/69c548dd230327f165c5021d6262fb80/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/hermes/.gradle/caches/transforms-3/1632250158d8dfc41ad606f6f61e3235/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/hermes/.gradle/caches/transforms-3/0cb6c6a4811a6b4f1483f6ec88b943fb/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/hermes/.gradle/caches/transforms-3/3f222a5ca30fcd79bc56b47276bd67bf/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/hermes/.gradle/caches/transforms-3/b52d53dd39787da46f78a50126f4697e/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/hermes/.gradle/caches/transforms-3/3e15dda0b9c72a7c2024d5c7be055432/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/hermes/.gradle/caches/transforms-3/3a6291d21d6f9c97c946ce87fec78a8f/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:3:1-100:12
+INJECTED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:3:1-100:12
+INJECTED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:3:1-100:12
+	package
+		INJECTED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:3:1-100:12
+		INJECTED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:3:1-100:12
+		INJECTED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:4:5-51
+	android:versionCode
+		INJECTED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:3:1-100:12
+		INJECTED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:5:5-35
+supports-screens
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:7:5-13:40
+	android:largeScreens
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:9:9-36
+	android:smallScreens
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:12:9-36
+	android:normalScreens
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:10:9-37
+	android:xlargeScreens
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:13:9-37
+	android:resizeable
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:11:9-34
+	android:anyDensity
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:8:9-34
+uses-permission#android.permission.INTERNET
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:17:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:18:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:19:22-73
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:20:2-74
+	android:name
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:20:19-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:21:5-23:48
+	tools:remove
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:23:9-45
+	android:name
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:22:9-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:24:2-77
+	android:name
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:24:19-74
+uses-permission#android.permission.CAMERA
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:25:2-62
+	android:name
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:25:19-59
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:26:5-27:50
+	android:name
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:27:1-47
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:28:5-80
+	android:name
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:28:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:30:1-62
+	android:name
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:30:18-59
+queries
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:32:5-37:15
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:34:9-36:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:35:21-70
+uses-feature#android.hardware.camera
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:39:5-60
+	android:name
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:39:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:40:5-70
+	android:name
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:40:19-67
+uses-feature#android.hardware.microphone
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:41:5-64
+	android:name
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:41:19-61
+uses-feature#android.hardware.location.gps
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:44:5-66
+	android:name
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:44:19-63
+uses-feature#android.hardware.touchscreen
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:45:5-47:36
+	android:required
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:47:9-33
+	android:name
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:46:9-52
+application
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:49:5-99:19
+MERGED from [com.google.android.gms:play-services-auth:20.6.0] /home/hermes/.gradle/caches/transforms-3/4d9e46a93ed700850f82503e872897f7/transformed/jetified-play-services-auth-20.6.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.6.0] /home/hermes/.gradle/caches/transforms-3/4d9e46a93ed700850f82503e872897f7/transformed/jetified-play-services-auth-20.6.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /home/hermes/.gradle/caches/transforms-3/05af47d0a08d649e024879d3ca40a41f/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /home/hermes/.gradle/caches/transforms-3/05af47d0a08d649e024879d3ca40a41f/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /home/hermes/.gradle/caches/transforms-3/2c8543f86465f0108dcf695bcc7f1c1a/transformed/jetified-play-services-fido-20.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /home/hermes/.gradle/caches/transforms-3/2c8543f86465f0108dcf695bcc7f1c1a/transformed/jetified-play-services-fido-20.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/hermes/.gradle/caches/transforms-3/9fcfcee2aff2541d6d2c5ed2c6e9331e/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/hermes/.gradle/caches/transforms-3/9fcfcee2aff2541d6d2c5ed2c6e9331e/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/hermes/.gradle/caches/transforms-3/c7825d3f9badcb5158a86420a63019a9/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/hermes/.gradle/caches/transforms-3/c7825d3f9badcb5158a86420a63019a9/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /home/hermes/.gradle/caches/transforms-3/2f1fd15a69b5d8238cfacaa601d1ed13/transformed/jetified-play-services-basement-18.2.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /home/hermes/.gradle/caches/transforms-3/2f1fd15a69b5d8238cfacaa601d1ed13/transformed/jetified-play-services-basement-18.2.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/hermes/.gradle/caches/transforms-3/1861c8489e009d8a4e730227620cc122/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/hermes/.gradle/caches/transforms-3/1861c8489e009d8a4e730227620cc122/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /home/hermes/.gradle/caches/transforms-3/2d36cdbeb90dfdfd402f076bef064238/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /home/hermes/.gradle/caches/transforms-3/2d36cdbeb90dfdfd402f076bef064238/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/hermes/.gradle/caches/transforms-3/af1c2d516b5a921a26b5da097a1ba1a1/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/hermes/.gradle/caches/transforms-3/af1c2d516b5a921a26b5da097a1ba1a1/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/hermes/.gradle/caches/transforms-3/69c548dd230327f165c5021d6262fb80/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/hermes/.gradle/caches/transforms-3/69c548dd230327f165c5021d6262fb80/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/hermes/.gradle/caches/transforms-3/1632250158d8dfc41ad606f6f61e3235/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/hermes/.gradle/caches/transforms-3/1632250158d8dfc41ad606f6f61e3235/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:requestLegacyExternalStorage
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:50:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /home/hermes/.gradle/caches/transforms-3/2d36cdbeb90dfdfd402f076bef064238/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:55:9-35
+	android:label
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:54:9-41
+	android:hardwareAccelerated
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:52:9-43
+	tools:ignore
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:57:3-29
+	android:icon
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:53:9-43
+	android:allowBackup
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:51:9-35
+	android:theme
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:56:9-43
+activity#araripina.app.webview.SplashScreen
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:58:9-68:20
+	android:screenOrientation
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:62:13-49
+	android:label
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:61:13-45
+	android:exported
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:60:13-36
+	android:name
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:59:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:64:13-67:29
+action#android.intent.action.MAIN
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:65:17-69
+	android:name
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:65:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:66:17-77
+	android:name
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:66:27-74
+activity#araripina.app.webview.MainActivity
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:69:9-84:20
+	android:screenOrientation
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:72:13-49
+	android:exported
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:71:13-36
+	android:name
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:70:13-41
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:araripina.com.br+data:pathPrefix:/+data:scheme:https
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:73:13-83:29
+	android:label
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:73:28-60
+action#android.intent.action.VIEW
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:74:17-69
+	android:name
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:74:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:76:17-76
+	android:name
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:76:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:77:17-78
+	android:name
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:77:27-75
+data
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:79:17-82:46
+	android:host
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:80:21-52
+	android:scheme
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:82:21-43
+	android:pathPrefix
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:81:21-43
+meta-data#com.google.android.gms.version
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:96:9-98:69
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /home/hermes/.gradle/caches/transforms-3/2f1fd15a69b5d8238cfacaa601d1ed13/transformed/jetified-play-services-basement-18.2.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /home/hermes/.gradle/caches/transforms-3/2f1fd15a69b5d8238cfacaa601d1ed13/transformed/jetified-play-services-basement-18.2.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:98:13-66
+	android:name
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:97:13-58
+uses-sdk
+INJECTED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml
+INJECTED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/hermes/.gradle/caches/transforms-3/76dd6faf8e82a236729d9d8dfd132a6e/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/hermes/.gradle/caches/transforms-3/76dd6faf8e82a236729d9d8dfd132a6e/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/hermes/.gradle/caches/transforms-3/846436f97025c65da143d9bb75dd27c5/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/hermes/.gradle/caches/transforms-3/846436f97025c65da143d9bb75dd27c5/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/hermes/.gradle/caches/transforms-3/e823a5dda738fb7207ec40a9ecdd8129/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/hermes/.gradle/caches/transforms-3/e823a5dda738fb7207ec40a9ecdd8129/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.6.0] /home/hermes/.gradle/caches/transforms-3/4d9e46a93ed700850f82503e872897f7/transformed/jetified-play-services-auth-20.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.6.0] /home/hermes/.gradle/caches/transforms-3/4d9e46a93ed700850f82503e872897f7/transformed/jetified-play-services-auth-20.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /home/hermes/.gradle/caches/transforms-3/05af47d0a08d649e024879d3ca40a41f/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /home/hermes/.gradle/caches/transforms-3/05af47d0a08d649e024879d3ca40a41f/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.media:media:1.0.0] /home/hermes/.gradle/caches/transforms-3/62fb05af4a187d66c732b7b504a3625d/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/hermes/.gradle/caches/transforms-3/62fb05af4a187d66c732b7b504a3625d/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/hermes/.gradle/caches/transforms-3/5953cb8ce8f98f2946fbb38484b53065/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/hermes/.gradle/caches/transforms-3/5953cb8ce8f98f2946fbb38484b53065/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/hermes/.gradle/caches/transforms-3/2250f7b1ab9557d5657b92483f06eb00/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/hermes/.gradle/caches/transforms-3/2250f7b1ab9557d5657b92483f06eb00/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /home/hermes/.gradle/caches/transforms-3/777f5102b6189c007400914052b45a66/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /home/hermes/.gradle/caches/transforms-3/777f5102b6189c007400914052b45a66/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /home/hermes/.gradle/caches/transforms-3/ace9674bd0df5d8126bb164d7bff5617/transformed/jetified-play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /home/hermes/.gradle/caches/transforms-3/ace9674bd0df5d8126bb164d7bff5617/transformed/jetified-play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /home/hermes/.gradle/caches/transforms-3/2c8543f86465f0108dcf695bcc7f1c1a/transformed/jetified-play-services-fido-20.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /home/hermes/.gradle/caches/transforms-3/2c8543f86465f0108dcf695bcc7f1c1a/transformed/jetified-play-services-fido-20.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/hermes/.gradle/caches/transforms-3/9fcfcee2aff2541d6d2c5ed2c6e9331e/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/hermes/.gradle/caches/transforms-3/9fcfcee2aff2541d6d2c5ed2c6e9331e/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/hermes/.gradle/caches/transforms-3/c7825d3f9badcb5158a86420a63019a9/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/hermes/.gradle/caches/transforms-3/c7825d3f9badcb5158a86420a63019a9/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /home/hermes/.gradle/caches/transforms-3/2f1fd15a69b5d8238cfacaa601d1ed13/transformed/jetified-play-services-basement-18.2.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /home/hermes/.gradle/caches/transforms-3/2f1fd15a69b5d8238cfacaa601d1ed13/transformed/jetified-play-services-basement-18.2.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] /home/hermes/.gradle/caches/transforms-3/7def779e53ee2f3f688cb1995e3c6945/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/hermes/.gradle/caches/transforms-3/7def779e53ee2f3f688cb1995e3c6945/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] /home/hermes/.gradle/caches/transforms-3/0f66f4b0a00ff7ebace10f6ad8a73a42/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /home/hermes/.gradle/caches/transforms-3/0f66f4b0a00ff7ebace10f6ad8a73a42/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/hermes/.gradle/caches/transforms-3/13850d809c5e08d556b7a81150942f11/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/hermes/.gradle/caches/transforms-3/13850d809c5e08d556b7a81150942f11/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/hermes/.gradle/caches/transforms-3/090d334dc62a6017edeeac87517d3af4/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/hermes/.gradle/caches/transforms-3/090d334dc62a6017edeeac87517d3af4/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/hermes/.gradle/caches/transforms-3/1861c8489e009d8a4e730227620cc122/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/hermes/.gradle/caches/transforms-3/1861c8489e009d8a4e730227620cc122/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/hermes/.gradle/caches/transforms-3/7252e0d2ef010e3195915fbd0b2d3325/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/hermes/.gradle/caches/transforms-3/7252e0d2ef010e3195915fbd0b2d3325/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/hermes/.gradle/caches/transforms-3/41f53933c19263b06a83d914e1452f4b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/hermes/.gradle/caches/transforms-3/41f53933c19263b06a83d914e1452f4b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/hermes/.gradle/caches/transforms-3/0da563c53fa37b2d398b98ef6d839185/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/hermes/.gradle/caches/transforms-3/0da563c53fa37b2d398b98ef6d839185/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/hermes/.gradle/caches/transforms-3/a6fa8cf0c313c5d66b52565f46bc067a/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/hermes/.gradle/caches/transforms-3/a6fa8cf0c313c5d66b52565f46bc067a/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/hermes/.gradle/caches/transforms-3/363724b6c7ca67ea72522e3c193eb388/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/hermes/.gradle/caches/transforms-3/363724b6c7ca67ea72522e3c193eb388/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/hermes/.gradle/caches/transforms-3/7b7a699cbc8e6564c3301e3262160a81/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/hermes/.gradle/caches/transforms-3/7b7a699cbc8e6564c3301e3262160a81/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/hermes/.gradle/caches/transforms-3/5551cdddc6993a5d0f99e01a16f9e884/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/hermes/.gradle/caches/transforms-3/5551cdddc6993a5d0f99e01a16f9e884/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/hermes/.gradle/caches/transforms-3/1580f3e5ad48ea56404b04ce5d99aa58/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/hermes/.gradle/caches/transforms-3/1580f3e5ad48ea56404b04ce5d99aa58/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/hermes/.gradle/caches/transforms-3/e8ad81c1c5f1ef437ec4e7876718fab2/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/hermes/.gradle/caches/transforms-3/e8ad81c1c5f1ef437ec4e7876718fab2/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] /home/hermes/.gradle/caches/transforms-3/f7aed3a3de8daf82a1422be96bede4ad/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /home/hermes/.gradle/caches/transforms-3/f7aed3a3de8daf82a1422be96bede4ad/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/hermes/.gradle/caches/transforms-3/54f8f0214dfe30c965f071184c100b2e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/hermes/.gradle/caches/transforms-3/54f8f0214dfe30c965f071184c100b2e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/hermes/.gradle/caches/transforms-3/52ec35b754f75b0e10ded128a31f4e2e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/hermes/.gradle/caches/transforms-3/52ec35b754f75b0e10ded128a31f4e2e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /home/hermes/.gradle/caches/transforms-3/2d36cdbeb90dfdfd402f076bef064238/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /home/hermes/.gradle/caches/transforms-3/2d36cdbeb90dfdfd402f076bef064238/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/hermes/.gradle/caches/transforms-3/842b3dfc0644dc5bfd8fa880584e0c11/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/hermes/.gradle/caches/transforms-3/842b3dfc0644dc5bfd8fa880584e0c11/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/hermes/.gradle/caches/transforms-3/af1c2d516b5a921a26b5da097a1ba1a1/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/hermes/.gradle/caches/transforms-3/af1c2d516b5a921a26b5da097a1ba1a1/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/hermes/.gradle/caches/transforms-3/f9e562b23f4f422ee14ad962f2b498de/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/hermes/.gradle/caches/transforms-3/f9e562b23f4f422ee14ad962f2b498de/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/hermes/.gradle/caches/transforms-3/4e79dea9212c14d370c21ae2eb2dc1c4/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/hermes/.gradle/caches/transforms-3/4e79dea9212c14d370c21ae2eb2dc1c4/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/hermes/.gradle/caches/transforms-3/7db2aacaf5c0e258966e35a83d9995ba/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/hermes/.gradle/caches/transforms-3/7db2aacaf5c0e258966e35a83d9995ba/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/hermes/.gradle/caches/transforms-3/5ec38c558705e4d51c1cd1644e7b9481/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/hermes/.gradle/caches/transforms-3/5ec38c558705e4d51c1cd1644e7b9481/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/hermes/.gradle/caches/transforms-3/ef41ad1de6652bdfc935f1f371e39b47/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/hermes/.gradle/caches/transforms-3/ef41ad1de6652bdfc935f1f371e39b47/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/hermes/.gradle/caches/transforms-3/50b6db4d30973008bd1e20743ca5b270/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/hermes/.gradle/caches/transforms-3/50b6db4d30973008bd1e20743ca5b270/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/hermes/.gradle/caches/transforms-3/69c548dd230327f165c5021d6262fb80/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/hermes/.gradle/caches/transforms-3/69c548dd230327f165c5021d6262fb80/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/hermes/.gradle/caches/transforms-3/1632250158d8dfc41ad606f6f61e3235/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/hermes/.gradle/caches/transforms-3/1632250158d8dfc41ad606f6f61e3235/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/hermes/.gradle/caches/transforms-3/0cb6c6a4811a6b4f1483f6ec88b943fb/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/hermes/.gradle/caches/transforms-3/0cb6c6a4811a6b4f1483f6ec88b943fb/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/hermes/.gradle/caches/transforms-3/3f222a5ca30fcd79bc56b47276bd67bf/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/hermes/.gradle/caches/transforms-3/3f222a5ca30fcd79bc56b47276bd67bf/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/hermes/.gradle/caches/transforms-3/b52d53dd39787da46f78a50126f4697e/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/hermes/.gradle/caches/transforms-3/b52d53dd39787da46f78a50126f4697e/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/hermes/.gradle/caches/transforms-3/3e15dda0b9c72a7c2024d5c7be055432/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/hermes/.gradle/caches/transforms-3/3e15dda0b9c72a7c2024d5c7be055432/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/hermes/.gradle/caches/transforms-3/3a6291d21d6f9c97c946ce87fec78a8f/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/hermes/.gradle/caches/transforms-3/3a6291d21d6f9c97c946ce87fec78a8f/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml
+INJECTED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:91:13-93:58
+	android:resource
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:93:17-55
+	android:name
+		ADDED from /home/hermes/Projetos/native/sngine/Android/Araripina/app/src/main/AndroidManifest.xml:92:17-67
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.6.0] /home/hermes/.gradle/caches/transforms-3/4d9e46a93ed700850f82503e872897f7/transformed/jetified-play-services-auth-20.6.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] /home/hermes/.gradle/caches/transforms-3/4d9e46a93ed700850f82503e872897f7/transformed/jetified-play-services-auth-20.6.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] /home/hermes/.gradle/caches/transforms-3/4d9e46a93ed700850f82503e872897f7/transformed/jetified-play-services-auth-20.6.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] /home/hermes/.gradle/caches/transforms-3/4d9e46a93ed700850f82503e872897f7/transformed/jetified-play-services-auth-20.6.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] /home/hermes/.gradle/caches/transforms-3/4d9e46a93ed700850f82503e872897f7/transformed/jetified-play-services-auth-20.6.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.6.0] /home/hermes/.gradle/caches/transforms-3/4d9e46a93ed700850f82503e872897f7/transformed/jetified-play-services-auth-20.6.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] /home/hermes/.gradle/caches/transforms-3/4d9e46a93ed700850f82503e872897f7/transformed/jetified-play-services-auth-20.6.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] /home/hermes/.gradle/caches/transforms-3/4d9e46a93ed700850f82503e872897f7/transformed/jetified-play-services-auth-20.6.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] /home/hermes/.gradle/caches/transforms-3/4d9e46a93ed700850f82503e872897f7/transformed/jetified-play-services-auth-20.6.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] /home/hermes/.gradle/caches/transforms-3/4d9e46a93ed700850f82503e872897f7/transformed/jetified-play-services-auth-20.6.0/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/hermes/.gradle/caches/transforms-3/9fcfcee2aff2541d6d2c5ed2c6e9331e/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/hermes/.gradle/caches/transforms-3/9fcfcee2aff2541d6d2c5ed2c6e9331e/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/hermes/.gradle/caches/transforms-3/9fcfcee2aff2541d6d2c5ed2c6e9331e/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/hermes/.gradle/caches/transforms-3/9fcfcee2aff2541d6d2c5ed2c6e9331e/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/hermes/.gradle/caches/transforms-3/1861c8489e009d8a4e730227620cc122/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/hermes/.gradle/caches/transforms-3/af1c2d516b5a921a26b5da097a1ba1a1/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/hermes/.gradle/caches/transforms-3/af1c2d516b5a921a26b5da097a1ba1a1/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/hermes/.gradle/caches/transforms-3/1632250158d8dfc41ad606f6f61e3235/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/hermes/.gradle/caches/transforms-3/1632250158d8dfc41ad606f6f61e3235/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/hermes/.gradle/caches/transforms-3/1861c8489e009d8a4e730227620cc122/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/hermes/.gradle/caches/transforms-3/1861c8489e009d8a4e730227620cc122/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/hermes/.gradle/caches/transforms-3/1861c8489e009d8a4e730227620cc122/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/hermes/.gradle/caches/transforms-3/1861c8489e009d8a4e730227620cc122/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/hermes/.gradle/caches/transforms-3/1861c8489e009d8a4e730227620cc122/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/hermes/.gradle/caches/transforms-3/1861c8489e009d8a4e730227620cc122/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/hermes/.gradle/caches/transforms-3/1861c8489e009d8a4e730227620cc122/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/hermes/.gradle/caches/transforms-3/2d36cdbeb90dfdfd402f076bef064238/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/hermes/.gradle/caches/transforms-3/2d36cdbeb90dfdfd402f076bef064238/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/hermes/.gradle/caches/transforms-3/2d36cdbeb90dfdfd402f076bef064238/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#araripina.app.webview.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/hermes/.gradle/caches/transforms-3/2d36cdbeb90dfdfd402f076bef064238/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/hermes/.gradle/caches/transforms-3/2d36cdbeb90dfdfd402f076bef064238/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/hermes/.gradle/caches/transforms-3/2d36cdbeb90dfdfd402f076bef064238/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/hermes/.gradle/caches/transforms-3/2d36cdbeb90dfdfd402f076bef064238/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/hermes/.gradle/caches/transforms-3/2d36cdbeb90dfdfd402f076bef064238/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#araripina.app.webview.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/hermes/.gradle/caches/transforms-3/2d36cdbeb90dfdfd402f076bef064238/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/hermes/.gradle/caches/transforms-3/2d36cdbeb90dfdfd402f076bef064238/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/hermes/.gradle/caches/transforms-3/af1c2d516b5a921a26b5da097a1ba1a1/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/hermes/.gradle/caches/transforms-3/af1c2d516b5a921a26b5da097a1ba1a1/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/hermes/.gradle/caches/transforms-3/af1c2d516b5a921a26b5da097a1ba1a1/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
