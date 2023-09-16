@@ -377,6 +377,7 @@ int color bright_foreground_material_light 0x7f050026
 int color button_material_dark 0x7f050027
 int color button_material_light 0x7f050028
 int color colorAccent 0x7f050029
+int color colorAraripina 0x7f050068
 int color colorPrimary 0x7f05002a
 int color colorPrimaryDark 0x7f05002b
 int color common_google_signin_btn_text_dark 0x7f05002c
@@ -808,6 +809,7 @@ int id media_actions 0x7f080074
 int id message 0x7f080075
 int id middle 0x7f080076
 int id msw_loading_text 0x7f080077
+int id msw_loading_text2 0x7f0800cf
 int id msw_logo 0x7f080078
 int id msw_progress 0x7f080079
 int id msw_view 0x7f08007a

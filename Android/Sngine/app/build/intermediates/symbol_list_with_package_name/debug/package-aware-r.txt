@@ -378,6 +378,7 @@ color bright_foreground_material_light
 color button_material_dark
 color button_material_light
 color colorAccent
+color colorAraripina
 color colorPrimary
 color colorPrimaryDark
 color common_google_signin_btn_text_dark
@@ -809,6 +810,7 @@ id media_actions
 id message
 id middle
 id msw_loading_text
+id msw_loading_text2
 id msw_logo
 id msw_progress
 id msw_view
