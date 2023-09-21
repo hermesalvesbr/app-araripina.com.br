@@ -18,7 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
-    webURL=@"http://demo.sngine.com";
+    webURL=@"https://araripina.com.br";
     
     NSURL *url = [NSURL URLWithString:webURL];
     NSURLRequest *requestObj = [NSURLRequest requestWithURL:url];
