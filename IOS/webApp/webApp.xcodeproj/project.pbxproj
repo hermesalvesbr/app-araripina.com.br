@@ -265,6 +265,7 @@
 				TargetAttributes = {
 					EF81BB061CCE365300D3BA78 = {
 						CreatedOnToolsVersion = 6.4;
+						DevelopmentTeam = M4KQWGSW72;
 					};
 					EF81BB1F1CCE365300D3BA78 = {
 						CreatedOnToolsVersion = 6.4;
@@ -482,8 +483,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = M4KQWGSW72;
 				INFOPLIST_FILE = webApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.softagon.Araripina-com-br";
 				PRODUCT_NAME = Araripina.com.br;
 			};
 			name = Debug;
@@ -492,8 +495,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = M4KQWGSW72;
 				INFOPLIST_FILE = webApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.softagon.Araripina-com-br";
 				PRODUCT_NAME = Araripina.com.br;
 			};
 			name = Release;
